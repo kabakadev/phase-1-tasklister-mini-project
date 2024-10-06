@@ -37,16 +37,16 @@ Alternatively, you can view the application directly in your browser by visiting
 
 #### Using the To-Do App
 
-Add a Task: Enter a description and select a priority level (high, medium, or low). Click the "Add Task" button to add the task to the list.
+- Add a Task: Enter a description and select a priority level (high, medium, or low). Click the "Add Task" button to add the task to the list.
 
-Cross Out a Task: To mark a task as completed, check the box next to the task. This will cross it out, visually indicating completion. Unchecking the box will undo the cross-out.
+- Cross Out a Task: To mark a task as completed, check the box next to the task. This will cross it out, visually indicating completion. Unchecking the box will undo the cross-out.
 
-Delete a Task: Click the "X" button next to any task to remove it from the list.
+- Delete a Task: Click the "X" button next to any task to remove it from the list.
 
-Sort Tasks by Priority: Use the dropdown to sort tasks either from "High to Low" or "Low to High." The tasks will re-order automatically based on priority.
+- Sort Tasks by Priority: Use the dropdown to sort tasks either from "High to Low" or "Low to High." The tasks will re-order automatically based on priority.
 
-By default the tasks are sorted from "High to low" and the task priority is set to "High" by default.
-New features and a better UI wil be added, The User Experience will be also improved in future updates.
+- By default the tasks are sorted from "High to low" and the task priority is set to "High" by default.
+**New features and a better UI wil be added, The User Experience will be also improved in future updates.**
 
 #### Contribution
 
