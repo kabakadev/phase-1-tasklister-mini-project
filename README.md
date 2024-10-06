@@ -27,12 +27,12 @@ To use this to-do list application locally on your machine, follow these steps:
 2. Clone the repository using the following command:
 
    ```bash
-   git
+   git clone https://github.com/kabakadev/phase-1-tasklister-mini-project.git
    ```
 
 ### 2. View on GitHu
 
-Alternatively, you can view the application directly in your browser by visiting this [GitHub-hosted URL](https://).
+Alternatively, you can view the application directly in your browser by visiting this [GitHub-hosted URL](https://kabakadev.github.io/phase-1-tasklister-mini-project/).
 
 #### Using the To-Do App
 
@@ -43,6 +43,9 @@ Cross Out a Task: To mark a task as completed, check the box next to the task. T
 Delete a Task: Click the "X" button next to any task to remove it from the list.
 
 Sort Tasks by Priority: Use the dropdown to sort tasks either from "High to Low" or "Low to High." The tasks will re-order automatically based on priority.
+
+By default the tasks are sorted from "High to low" and the task priority is set to "High" by default.
+New features and a better UI wil be added, The User Experience will be also improved in future updates.
 
 #### Contribution
 
