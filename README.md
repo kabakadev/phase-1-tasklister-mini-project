@@ -29,6 +29,7 @@ To use this to-do list application locally on your machine, follow these steps:
    ```bash
    git clone https://github.com/kabakadev/phase-1-tasklister-mini-project.git
    ```
+3. Enter the cloned directory and open the index.html file in your preffered browser
 
 ### 2. View on GitHu
 
