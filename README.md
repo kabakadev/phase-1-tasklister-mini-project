@@ -31,7 +31,7 @@ To use this to-do list application locally on your machine, follow these steps:
    ```
 3. Enter the cloned directory and open the index.html file in your preffered browser
 
-### 2. View on GitHu
+### 2. View on GitHub
 
 Alternatively, you can view the application directly in your browser by visiting this [GitHub-hosted URL](https://kabakadev.github.io/phase-1-tasklister-mini-project/).
 
