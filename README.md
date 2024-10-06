@@ -44,7 +44,7 @@ Alternatively, you can view the application directly in your browser by visiting
 - Delete a Task: Click the "X" button next to any task to remove it from the list.
 
 - Sort Tasks by Priority: Use the dropdown to sort tasks either from "High to Low" or "Low to High." The tasks will re-order automatically based on priority.
-
+- The input field for task description is required, the form will not allow an empty submission, however, the duration field is optional.
 - By default the tasks are sorted from "High to low" and the task priority is set to "High" by default.
 **New features and a better UI wil be added, The User Experience will be also improved in future updates.**
 
